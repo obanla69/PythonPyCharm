@@ -1,5 +1,5 @@
 
-data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+data = [32, 18, 24, 41, 16, 45, 31, 50, 22, 6]
 for index in range(len(data)):
     if(index + 1) % 3 == 0:
         data[index] = data[index]*2
